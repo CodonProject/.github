@@ -10,7 +10,7 @@ Codon Project is an open-source research initiative focused on Artificial Genera
 
 ## Resources
 - **HuggingFace:** https://huggingface.co/CodonProject
-- **ModelScope:** Applied / In Progress
+- **ModelScope:** https://www.modelscope.cn/organization/CodonProject
 
 ## Get Involved
 We welcome technical discussions, issue reports, and pull requests. If you are interested in the boundary of AGI and consciousness modeling, feel free to explore our repositories or contact us for collaboration.
